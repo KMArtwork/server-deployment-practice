@@ -2,7 +2,9 @@
 
 ## Server
 Deployed Server: https://server-deployment-practice-z2i7.onrender.com
+
 Endpoint: /sarcasm
+
 Example: https://server-deployment-practice-z2i7.onrender.com/sarcasm?message=stop+mocking+me
 
 ## GitHub Actions
